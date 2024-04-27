@@ -1,10 +1,8 @@
 import 'package:english_drill_app/models/lesson_fragment_model.dart';
 
-int convertTimeStringToMilliseconds(String time) {
+double convertTimeStringToSeconds(String time) {
   List<String> timeList = time.split(':');
-  final result =
-      double.parse(timeList[0]) * 60 * 1000 + double.parse(timeList[1]) * 1000;
-  return result.toInt();
+  return double.parse(timeList[0]) * 60 + double.parse(timeList[1]);
 }
 
 List<LessonFragmentModel> parseLRC(String lrc) {
@@ -15,10 +13,19 @@ List<LessonFragmentModel> parseLRC(String lrc) {
     if (line.startsWith('[')) {
       String timeString = line.substring(1, line.indexOf(']'));
       String text = line.substring(line.indexOf(']') + 1);
-      int beginTime = convertTimeStringToMilliseconds(timeString);
+      double beginTime = convertTimeStringToSeconds(timeString);
 
-      lrcList.add(LessonFragmentModel(words: text, beginTime: beginTime));
+      lrcList.add(LessonFragmentModel(
+        index: i,
+        words: text,
+        beginTime: beginTime,
+      ));
     }
   }
+
+  for (int i = 0; i < lrcList.length - 1; i++) {
+    lrcList[i].setEndTime(lrcList[i + 1].beginTime - 0.5);
+  }
+
   return lrcList;
 }

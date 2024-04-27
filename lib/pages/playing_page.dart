@@ -1,6 +1,8 @@
+import 'package:audiofileplayer/audiofileplayer.dart';
 import 'package:english_drill_app/models/lesson_fragment_model.dart';
 import 'package:english_drill_app/models/lesson_model.dart';
 import 'package:english_drill_app/utils/parse_lrc.dart';
+import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
@@ -15,7 +17,78 @@ class PlayingPage extends StatefulWidget {
 
 class _PlayingPageState extends State<PlayingPage> {
   List<LessonFragmentModel> lrcList = [];
+  Map<int, LessonFragmentModel> lrcMap = {};
   LessonFragmentModel? activeFragment;
+  late Audio audio;
+  bool playingArticle = false;
+  bool playingFragment = false;
+  double positionOfArticle = 0;
+  double activeIndexOfFragment = 0;
+
+  _playFragment(LessonFragmentModel fragment) {
+    setState(() {
+      playingArticle = false;
+      playingFragment = true;
+      activeFragment = fragment;
+    });
+    audio.play();
+    audio.seek(fragment.beginTime);
+  }
+
+  _play() {
+    setState(() {
+      playingArticle = true;
+      playingFragment = false;
+
+      audio.play();
+      audio.seek(positionOfArticle);
+    });
+  }
+
+  _pause() {
+    setState(() {
+      playingArticle = false;
+      audio.pause();
+    });
+  }
+
+  _toggle() {
+    if (playingArticle) {
+      _pause();
+    } else {
+      _play();
+    }
+  }
+
+  _loadAudio() {
+    audio = Audio.load(
+      widget.lesson.audioPath,
+      playInBackground: true,
+      onPosition: (position) {
+        setState(() {
+          if (playingArticle) {
+            positionOfArticle = position;
+
+            // if (activeFragment? &&
+            //     position > lrcMap[activeIndexOfFragment]!.beginTime) {
+            //   activeFragment = lrcMap[activeIndexOfFragment];
+            // }
+          } else if (playingFragment) {
+            if (activeFragment?.endTime != null &&
+                position >= activeFragment!.endTime!) {
+              _pause();
+            }
+          }
+        });
+      },
+      onComplete: () {
+        if (playingArticle) {
+          positionOfArticle = 0;
+          _play();
+        }
+      },
+    );
+  }
 
   _parseLrc() async {
     final lrcText = await rootBundle.loadString(widget.lesson.lrcPath);
@@ -24,7 +97,7 @@ class _PlayingPageState extends State<PlayingPage> {
 
     setState(() {
       lrcList = list;
-      activeFragment = list.first;
+      lrcMap = Map.fromEntries(list.map((e) => MapEntry(e.index, e)));
     });
   }
 
@@ -32,6 +105,14 @@ class _PlayingPageState extends State<PlayingPage> {
   void initState() {
     super.initState();
     _parseLrc();
+    _loadAudio();
+  }
+
+  @override
+  void dispose() {
+    audio.pause();
+    audio.dispose();
+    super.dispose();
   }
 
   TextSpan buildFragment(LessonFragmentModel fragment) {
@@ -41,6 +122,8 @@ class _PlayingPageState extends State<PlayingPage> {
         active ? TextDecorationStyle.solid : TextDecorationStyle.dotted;
     return TextSpan(children: [
       TextSpan(
+        recognizer: TapGestureRecognizer()
+          ..onTap = () => _playFragment(fragment),
         text: fragment.words,
         style: TextStyle(
             fontSize: 22,
@@ -59,13 +142,19 @@ class _PlayingPageState extends State<PlayingPage> {
       appBar: AppBar(
         title: Text(widget.lesson.title),
       ),
-      body: Padding(
-        padding: const EdgeInsets.all(16),
-        child: Column(children: [
-          Text.rich(TextSpan(
-              children: List.generate(
-                  lrcList.length, (index) => buildFragment(lrcList[index]))))
-        ]),
+      body: SingleChildScrollView(
+        child: Padding(
+          padding: const EdgeInsets.all(16),
+          child: Column(children: [
+            Text.rich(TextSpan(
+                children: List.generate(
+                    lrcList.length, (index) => buildFragment(lrcList[index]))))
+          ]),
+        ),
+      ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: _toggle,
+        child: Icon(playingArticle ? Icons.pause : Icons.play_arrow),
       ),
     );
   }
