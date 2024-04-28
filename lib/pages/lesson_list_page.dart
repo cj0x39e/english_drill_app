@@ -55,7 +55,7 @@ class _LessonListPageState extends State<LessonListPage> {
             final lesson = lessons[index];
 
             return ListTile(
-              title: Text(lesson.title),
+              title: Text('${lesson.lessonNumber} ${lesson.title}'),
               onTap: () => _toPlayingPage(lesson),
             );
           })
