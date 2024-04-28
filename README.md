@@ -1,16 +1,19 @@
-# english_drill_app
+# English Drill
 
-A new Flutter project.
+An App for drilling English for people who using New Concept English.
 
-## Getting Started
+Just have one function up to now: playing the audio of a lesson, sure, you can also easily pause it.
 
-This project is a starting point for a Flutter application.
+## How to install
 
-A few resources to get you started if this is your first Flutter project:
+Download the APK file from the release page, and open it on your phone. The APP does not need any permission, the audio of the lessons has been packaged into the APP.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Only Support For Android. For IOS you can install it by the source code if you can.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## snapshots
+
+//TODO
+
+## License
+
+MIT, but don't use it to make money, like sell it on XIANYU or TAOBAO or PINDUODUO, etc.
