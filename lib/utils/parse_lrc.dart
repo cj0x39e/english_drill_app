@@ -8,9 +8,10 @@ double convertTimeStringToSeconds(String time) {
 List<LessonFragmentModel> parseLRC(String lrc) {
   List<String> lines = lrc.split('\n');
   List<LessonFragmentModel> lrcList = [];
+  final timeFlag = RegExp(r'^\[\d\d:\d\d\.\d\d\]');
   for (int i = 0; i < lines.length; i++) {
     String line = lines[i];
-    if (line.startsWith('[')) {
+    if (line.startsWith(timeFlag)) {
       String timeString = line.substring(1, line.indexOf(']'));
       String text = line.substring(line.indexOf(']') + 1);
       double beginTime = convertTimeStringToSeconds(timeString);
