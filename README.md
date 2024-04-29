@@ -1,5 +1,7 @@
 <p align="center">
-<img src="assets/icon/icon.png" width="160" height="160">
+	<a href="https://github.com/cj0x39e/english_drill_app">
+		<img src="assets/icon/icon.png" width="160" height="160">
+	</a>
 </p>
 
 # English Drill
