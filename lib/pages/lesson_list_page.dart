@@ -54,9 +54,15 @@ class _LessonListPageState extends State<LessonListPage> {
           ...List.generate(lessons.length, (index) {
             final lesson = lessons[index];
 
-            return ListTile(
-              title: Text('${lesson.lessonNumber} ${lesson.title}'),
-              onTap: () => _toPlayingPage(lesson),
+            return Column(
+              children: [
+                ListTile(
+                  leading: Text(lesson.lessonNumber),
+                  title: Text(lesson.title),
+                  onTap: () => _toPlayingPage(lesson),
+                ),
+                const Divider(height: 0)
+              ],
             );
           })
         ],
