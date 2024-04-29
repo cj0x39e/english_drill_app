@@ -1,7 +1,9 @@
 import 'package:audiofileplayer/audiofileplayer.dart';
 import 'package:english_drill_app/models/lesson_fragment_model.dart';
 import 'package:english_drill_app/models/lesson_model.dart';
+import 'package:english_drill_app/utils/colors.dart';
 import 'package:english_drill_app/utils/parse_lrc.dart';
+import 'package:english_drill_app/utils/parse_words.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -117,21 +119,24 @@ class _PlayingPageState extends State<PlayingPage> {
 
   TextSpan buildFragment(LessonFragmentModel fragment) {
     final active = activeFragment == fragment;
-    final color = active ? Colors.blue : Colors.grey[500];
+    final color = active ? mainColor : Colors.grey[600];
     final style =
         active ? TextDecorationStyle.solid : TextDecorationStyle.dotted;
+
     return TextSpan(children: [
       TextSpan(
-        recognizer: TapGestureRecognizer()
-          ..onTap = () => _playFragment(fragment),
-        text: fragment.words,
-        style: TextStyle(
+          style: TextStyle(
             fontSize: 22,
             height: 1.8,
             decorationStyle: style,
+            color: color,
             decorationColor: color,
-            decoration: TextDecoration.underline),
-      ),
+            decoration: TextDecoration.underline,
+          ),
+          children: [
+            buildWordsWithBoldFirstLetter(fragment.words,
+                onTap: () => _playFragment(fragment))
+          ]),
       const TextSpan(text: '  ')
     ]);
   }
@@ -148,7 +153,10 @@ class _PlayingPageState extends State<PlayingPage> {
           child: Column(children: [
             Text.rich(TextSpan(
                 children: List.generate(
-                    lrcList.length, (index) => buildFragment(lrcList[index]))))
+                    lrcList.length, (index) => buildFragment(lrcList[index])))),
+            const SizedBox(
+              height: 60,
+            )
           ]),
         ),
       ),
