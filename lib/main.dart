@@ -1,4 +1,5 @@
 import 'package:english_drill_app/pages/lesson_list_page.dart';
+import 'package:english_drill_app/utils/colors.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -13,10 +14,9 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
         title: 'English Drill',
         debugShowCheckedModeBanner: false,
-        themeMode: ThemeMode.dark,
-        darkTheme: ThemeData.dark(),
+        themeMode: ThemeMode.system,
         theme: ThemeData(
-          colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+          colorScheme: ColorScheme.fromSeed(seedColor: mainColor),
           useMaterial3: true,
         ),
         home: const LessonListPage());
