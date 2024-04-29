@@ -1,3 +1,7 @@
+<p align="center">
+<img src="assets/icon/icon.png" width="160" height="160">
+</p>
+
 # English Drill
 
 An App for drilling English for people who using New Concept English.
@@ -13,6 +17,10 @@ Only Support For Android. For IOS you can install it by the source code if you c
 ## snapshots
 
 //TODO
+
+## About the logo
+
+The app's logo was almost designed by my oldest son (a seven-year-old boy). It looks like a dinosaur or a lizard. It's actually a turtle from Pokemon named Squirtle. Hope you like it.
 
 ## License
 
