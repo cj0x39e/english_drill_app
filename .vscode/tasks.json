@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "command": "dart",
+      "args": ["run", "build_tools/replace_book.dart", "--book-name", "nce1"],
+      "label": "build_nce1"
+    },
+    {
+      "command": "dart",
+      "args": ["run", "build_tools/replace_book.dart", "--book-name", "nce2"],
+      "label": "build_nce2"
+    },
+    {
+      "command": "dart",
+      "args": ["run", "build_tools/replace_book.dart", "--book-name", "nce3"],
+      "label": "build_nce3"
+    },
+    {
+      "command": "dart",
+      "args": ["run", "build_tools/replace_book.dart", "--book-name", "nce4"],
+      "label": "build_nce4"
+    }
+  ]
+}

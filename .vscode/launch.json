@@ -5,18 +5,32 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "kwiner_app (Debug)",
+      "name": "Debug(NCE 1)",
       "request": "launch",
       "type": "dart",
-      "args": ["--dart-define", "ENV=DEV"]
+      "args": ["--dart-define", "BOOK_NAME=nce1"],
+      "preLaunchTask": "build_nce1"
     },
-
     {
-      "name": "kwiner_app (release prod)",
+      "name": "Debug(NCE 2)",
       "request": "launch",
       "type": "dart",
-      "flutterMode": "release",
-      "args": ["--dart-define", "ENV=PROD"]
+      "args": ["--dart-define", "BOOK_NAME=nce2"],
+      "preLaunchTask": "build_nce2"
+    },
+    {
+      "name": "Debug(NCE 3)",
+      "request": "launch",
+      "type": "dart",
+      "args": ["--dart-define", "BOOK_NAME=nce3"],
+      "preLaunchTask": "build_nce3"
+    },
+    {
+      "name": "Debug(NCE 4)",
+      "request": "launch",
+      "type": "dart",
+      "args": ["--dart-define", "BOOK_NAME=nce4"],
+      "preLaunchTask": "build_nce4"
     }
   ]
 }

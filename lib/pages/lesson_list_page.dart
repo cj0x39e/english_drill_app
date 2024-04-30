@@ -3,6 +3,7 @@ import 'dart:convert';
 import 'package:english_drill_app/models/lesson_model.dart';
 import 'package:english_drill_app/pages/playing_page.dart';
 import 'package:english_drill_app/utils/colors.dart';
+import 'package:english_drill_app/utils/env.dart';
 import 'package:english_drill_app/utils/parse_words.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -18,15 +19,14 @@ class _LessonListPageState extends State<LessonListPage> {
   List<LessonModel> lessons = [];
 
   _loadSourceMap() async {
-    String jsonText =
-        await rootBundle.loadString('assets/nce2/source_map.json');
+    String jsonText = await rootBundle.loadString(getSourceMapPath());
     List<dynamic> jsonData = json.decode(jsonText);
 
     setState(() {
       lessons = jsonData.map((e) => LessonModel.fromJson(e)).toList();
       lessons.sort(
         (a, b) {
-          return int.parse(a.lessonNumber) - int.parse(b.lessonNumber);
+          return a.lessonNumber.compareTo(b.lessonNumber);
         },
       );
     });
