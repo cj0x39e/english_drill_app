@@ -1,0 +1,362 @@
+[
+  {
+    "lessonNumber": "46",
+    "title": "Do It Yourself",
+    "audioPath": "assets/nce3/doityourself.mp3",
+    "lrcPath": "assets/nce3/doityourself.lrc"
+  },
+  {
+    "lessonNumber": "53",
+    "title": "In the Public Interest",
+    "audioPath": "assets/nce3/inthepublicinterest.mp3",
+    "lrcPath": "assets/nce3/inthepublicinterest.lrc"
+  },
+  {
+    "lessonNumber": "41",
+    "title": "Illusions of Pastoral Peace",
+    "audioPath": "assets/nce3/illusionsofpastoralpeace.mp3",
+    "lrcPath": "assets/nce3/illusionsofpastoralpeace.lrc"
+  },
+  {
+    "lessonNumber": "56",
+    "title": "Our Neighbour, the River",
+    "audioPath": "assets/nce3/ourneighbour,theriver.mp3",
+    "lrcPath": "assets/nce3/ourneighbour,theriver.lrc"
+  },
+  {
+    "lessonNumber": "25",
+    "title": "The Cutty Sark",
+    "audioPath": "assets/nce3/thecuttysark.mp3",
+    "lrcPath": "assets/nce3/thecuttysark.lrc"
+  },
+  {
+    "lessonNumber": "48",
+    "title": "The Silent Village",
+    "audioPath": "assets/nce3/thesilentvillage.mp3",
+    "lrcPath": "assets/nce3/thesilentvillage.lrc"
+  },
+  {
+    "lessonNumber": "60",
+    "title": "Too Early and Too Late",
+    "audioPath": "assets/nce3/tooearlyandtoolate.mp3",
+    "lrcPath": "assets/nce3/tooearlyandtoolate.lrc"
+  },
+  {
+    "lessonNumber": "21",
+    "title": "Daniel Mendoza",
+    "audioPath": "assets/nce3/danielmendoza.mp3",
+    "lrcPath": "assets/nce3/danielmendoza.lrc"
+  },
+  {
+    "lessonNumber": "44",
+    "title": "Speed and Comfort",
+    "audioPath": "assets/nce3/speedandcomfort.mp3",
+    "lrcPath": "assets/nce3/speedandcomfort.lrc"
+  },
+  {
+    "lessonNumber": "22",
+    "title": "By Heart",
+    "audioPath": "assets/nce3/byheart.mp3",
+    "lrcPath": "assets/nce3/byheart.lrc"
+  },
+  {
+    "lessonNumber": "24",
+    "title": "A Skeleton in the Cupboard",
+    "audioPath": "assets/nce3/askeletoninthecupboard.mp3",
+    "lrcPath": "assets/nce3/askeletoninthecupboard.lrc"
+  },
+  {
+    "lessonNumber": "55",
+    "title": "From the Earth Greetings",
+    "audioPath": "assets/nce3/fromtheearthgreetings.mp3",
+    "lrcPath": "assets/nce3/fromtheearthgreetings.lrc"
+  },
+  {
+    "lessonNumber": "08",
+    "title": "A Famous Monastery",
+    "audioPath": "assets/nce3/afamousmonastery.mp3",
+    "lrcPath": "assets/nce3/afamousmonastery.lrc"
+  },
+  {
+    "lessonNumber": "03",
+    "title": "An Unknown Goddess",
+    "audioPath": "assets/nce3/anunknowngoddess.mp3",
+    "lrcPath": "assets/nce3/anunknowngoddess.lrc"
+  },
+  {
+    "lessonNumber": "02",
+    "title": "Thirteen Equals One",
+    "audioPath": "assets/nce3/thirteenequalsone.mp3",
+    "lrcPath": "assets/nce3/thirteenequalsone.lrc"
+  },
+  {
+    "lessonNumber": "10",
+    "title": "The Loss of the Titanic",
+    "audioPath": "assets/nce3/thelossofthetitanic.mp3",
+    "lrcPath": "assets/nce3/thelossofthetitanic.lrc"
+  },
+  {
+    "lessonNumber": "11",
+    "title": "Not Guilty",
+    "audioPath": "assets/nce3/notguilty.mp3",
+    "lrcPath": "assets/nce3/notguilty.lrc"
+  },
+  {
+    "lessonNumber": "09",
+    "title": "Flying Cats",
+    "audioPath": "assets/nce3/flyingcats.mp3",
+    "lrcPath": "assets/nce3/flyingcats.lrc"
+  },
+  {
+    "lessonNumber": "07",
+    "title": "Mutilated Ladies",
+    "audioPath": "assets/nce3/mutilatedladies.mp3",
+    "lrcPath": "assets/nce3/mutilatedladies.lrc"
+  },
+  {
+    "lessonNumber": "23",
+    "title": "One Man's Meat is Another Man's Poison",
+    "audioPath": "assets/nce3/oneman'smeatisanotherman'spoison.mp3",
+    "lrcPath": "assets/nce3/oneman'smeatisanotherman'spoison.lrc"
+  },
+  {
+    "lessonNumber": "29",
+    "title": "Funny or Not",
+    "audioPath": "assets/nce3/funnyornot.mp3",
+    "lrcPath": "assets/nce3/funnyornot.lrc"
+  },
+  {
+    "lessonNumber": "04",
+    "title": "The Double Life of Alfred Bloggs",
+    "audioPath": "assets/nce3/thedoublelifeofalfredbloggs.mp3",
+    "lrcPath": "assets/nce3/thedoublelifeofalfredbloggs.lrc"
+  },
+  {
+    "lessonNumber": "54",
+    "title": "Instinct or Cleverness",
+    "audioPath": "assets/nce3/instinctorcleverness.mp3",
+    "lrcPath": "assets/nce3/instinctorcleverness.lrc"
+  },
+  {
+    "lessonNumber": "58",
+    "title": "A Spot of Bother",
+    "audioPath": "assets/nce3/aspotofbother.mp3",
+    "lrcPath": "assets/nce3/aspotofbother.lrc"
+  },
+  {
+    "lessonNumber": "36",
+    "title": "A Chance in a Million",
+    "audioPath": "assets/nce3/achanceinamillion.mp3",
+    "lrcPath": "assets/nce3/achanceinamillion.lrc"
+  },
+  {
+    "lessonNumber": "05",
+    "title": "The Facts",
+    "audioPath": "assets/nce3/thefacts.mp3",
+    "lrcPath": "assets/nce3/thefacts.lrc"
+  },
+  {
+    "lessonNumber": "27",
+    "title": "Nothing to Sell and Nothing to Buy",
+    "audioPath": "assets/nce3/nothingtosellandnothingtobuy.mp3",
+    "lrcPath": "assets/nce3/nothingtosellandnothingtobuy.lrc"
+  },
+  {
+    "lessonNumber": "17",
+    "title": "The Longest Suspension Bridge in the World",
+    "audioPath": "assets/nce3/thelongestsuspensionbridgeintheworld.mp3",
+    "lrcPath": "assets/nce3/thelongestsuspensionbridgeintheworld.lrc"
+  },
+  {
+    "lessonNumber": "14",
+    "title": "A Noble Gangster",
+    "audioPath": "assets/nce3/anoblegangster.mp3",
+    "lrcPath": "assets/nce3/anoblegangster.lrc"
+  },
+  {
+    "lessonNumber": "43",
+    "title": "Fully Insured",
+    "audioPath": "assets/nce3/fullyinsured.mp3",
+    "lrcPath": "assets/nce3/fullyinsured.lrc"
+  },
+  {
+    "lessonNumber": "19",
+    "title": "A Very Dear Cat",
+    "audioPath": "assets/nce3/averydearcat.mp3",
+    "lrcPath": "assets/nce3/averydearcat.lrc"
+  },
+  {
+    "lessonNumber": "42",
+    "title": "Modern Cavemen",
+    "audioPath": "assets/nce3/moderncavemen.mp3",
+    "lrcPath": "assets/nce3/moderncavemen.lrc"
+  },
+  {
+    "lessonNumber": "40",
+    "title": "Who's Who",
+    "audioPath": "assets/nce3/who'swho.mp3",
+    "lrcPath": "assets/nce3/who'swho.lrc"
+  },
+  {
+    "lessonNumber": "01",
+    "title": "A Puma at Large",
+    "audioPath": "assets/nce3/apumaatlarge.mp3",
+    "lrcPath": "assets/nce3/apumaatlarge.lrc"
+  },
+  {
+    "lessonNumber": "57",
+    "title": "Back in the Old Country",
+    "audioPath": "assets/nce3/backintheoldcountry.mp3",
+    "lrcPath": "assets/nce3/backintheoldcountry.lrc"
+  },
+  {
+    "lessonNumber": "51",
+    "title": "Predicting the Future",
+    "audioPath": "assets/nce3/predictingthefuture.mp3",
+    "lrcPath": "assets/nce3/predictingthefuture.lrc"
+  },
+  {
+    "lessonNumber": "26",
+    "title": "Wanted a Large Biscuit Tin",
+    "audioPath": "assets/nce3/wantedalargebiscuittin.mp3",
+    "lrcPath": "assets/nce3/wantedalargebiscuittin.lrc"
+  },
+  {
+    "lessonNumber": "16",
+    "title": "Mary Had a Little Lamb",
+    "audioPath": "assets/nce3/maryhadalittlelamb.mp3",
+    "lrcPath": "assets/nce3/maryhadalittlelamb.lrc"
+  },
+  {
+    "lessonNumber": "33",
+    "title": "A Day to Remember",
+    "audioPath": "assets/nce3/adaytoremember.mp3",
+    "lrcPath": "assets/nce3/adaytoremember.lrc"
+  },
+  {
+    "lessonNumber": "35",
+    "title": "Justice was Done",
+    "audioPath": "assets/nce3/justicewasdone.mp3",
+    "lrcPath": "assets/nce3/justicewasdone.lrc"
+  },
+  {
+    "lessonNumber": "39",
+    "title": "Nothing to Worry About",
+    "audioPath": "assets/nce3/nothingtoworryabout.mp3",
+    "lrcPath": "assets/nce3/nothingtoworryabout.lrc"
+  },
+  {
+    "lessonNumber": "34",
+    "title": "A Happy Discovery",
+    "audioPath": "assets/nce3/ahappydiscovery.mp3",
+    "lrcPath": "assets/nce3/ahappydiscovery.lrc"
+  },
+  {
+    "lessonNumber": "28",
+    "title": "Five Pounds Too Dear",
+    "audioPath": "assets/nce3/fivepoundstoodear.mp3",
+    "lrcPath": "assets/nce3/fivepoundstoodear.lrc"
+  },
+  {
+    "lessonNumber": "30",
+    "title": "The Death of a Ghost",
+    "audioPath": "assets/nce3/thedeathofaghost.mp3",
+    "lrcPath": "assets/nce3/thedeathofaghost.lrc"
+  },
+  {
+    "lessonNumber": "32",
+    "title": "A Lost Ship",
+    "audioPath": "assets/nce3/alostship.mp3",
+    "lrcPath": "assets/nce3/alostship.lrc"
+  },
+  {
+    "lessonNumber": "20",
+    "title": "Pioneer Pilots",
+    "audioPath": "assets/nce3/pioneerpilots.mp3",
+    "lrcPath": "assets/nce3/pioneerpilots.lrc"
+  },
+  {
+    "lessonNumber": "45",
+    "title": "The Power of the Press",
+    "audioPath": "assets/nce3/thepowerofthepress.mp3",
+    "lrcPath": "assets/nce3/thepowerofthepress.lrc"
+  },
+  {
+    "lessonNumber": "59",
+    "title": "Collecting",
+    "audioPath": "assets/nce3/collecting.mp3",
+    "lrcPath": "assets/nce3/collecting.lrc"
+  },
+  {
+    "lessonNumber": "49",
+    "title": "The Ideal Servant",
+    "audioPath": "assets/nce3/theidealservant.mp3",
+    "lrcPath": "assets/nce3/theidealservant.lrc"
+  },
+  {
+    "lessonNumber": "37",
+    "title": "The Westhaven Express",
+    "audioPath": "assets/nce3/thewesthavenexpress.mp3",
+    "lrcPath": "assets/nce3/thewesthavenexpress.lrc"
+  },
+  {
+    "lessonNumber": "47",
+    "title": "Too High a Price",
+    "audioPath": "assets/nce3/toohighaprice.mp3",
+    "lrcPath": "assets/nce3/toohighaprice.lrc"
+  },
+  {
+    "lessonNumber": "18",
+    "title": "Electric Currents in Modern Art",
+    "audioPath": "assets/nce3/electriccurrentsinmodernart.mp3",
+    "lrcPath": "assets/nce3/electriccurrentsinmodernart.lrc"
+  },
+  {
+    "lessonNumber": "38",
+    "title": "The First Calendar",
+    "audioPath": "assets/nce3/thefirstcalendar.mp3",
+    "lrcPath": "assets/nce3/thefirstcalendar.lrc"
+  },
+  {
+    "lessonNumber": "13",
+    "title": "It's Only Me",
+    "audioPath": "assets/nce3/it'sonlyme.mp3",
+    "lrcPath": "assets/nce3/it'sonlyme.lrc"
+  },
+  {
+    "lessonNumber": "12",
+    "title": "Life on a Desert Island",
+    "audioPath": "assets/nce3/lifeonadesertisland.mp3",
+    "lrcPath": "assets/nce3/lifeonadesertisland.lrc"
+  },
+  {
+    "lessonNumber": "52",
+    "title": "Mud is Mud",
+    "audioPath": "assets/nce3/mudismud.mp3",
+    "lrcPath": "assets/nce3/mudismud.lrc"
+  },
+  {
+    "lessonNumber": "15",
+    "title": "Fifty Pence Worth of Trouble",
+    "audioPath": "assets/nce3/fiftypenceworthoftrouble.mp3",
+    "lrcPath": "assets/nce3/fiftypenceworthoftrouble.lrc"
+  },
+  {
+    "lessonNumber": "31",
+    "title": "A Lovable Eccentric",
+    "audioPath": "assets/nce3/alovableeccentric.mp3",
+    "lrcPath": "assets/nce3/alovableeccentric.lrc"
+  },
+  {
+    "lessonNumber": "50",
+    "title": "New Year Resolutions",
+    "audioPath": "assets/nce3/newyearresolutions.mp3",
+    "lrcPath": "assets/nce3/newyearresolutions.lrc"
+  },
+  {
+    "lessonNumber": "06",
+    "title": "Smash-and-Grab",
+    "audioPath": "assets/nce3/smash-and-grab.mp3",
+    "lrcPath": "assets/nce3/smash-and-grab.lrc"
+  }
+]

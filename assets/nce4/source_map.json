@@ -1,0 +1,290 @@
+[
+  {
+    "lessonNumber": "47",
+    "title": "The Great Escape",
+    "audioPath": "assets/nce4/thegreatescape.mp3",
+    "lrcPath": "assets/nce4/thegreatescape.lrc"
+  },
+  {
+    "lessonNumber": "19",
+    "title": "The Stuff of Dreams",
+    "audioPath": "assets/nce4/thestuffofdreams.mp3",
+    "lrcPath": "assets/nce4/thestuffofdreams.lrc"
+  },
+  {
+    "lessonNumber": "33",
+    "title": "Education",
+    "audioPath": "assets/nce4/education.mp3",
+    "lrcPath": "assets/nce4/education.lrc"
+  },
+  {
+    "lessonNumber": "35",
+    "title": "Space Odyssey",
+    "audioPath": "assets/nce4/spaceodyssey.mp3",
+    "lrcPath": "assets/nce4/spaceodyssey.lrc"
+  },
+  {
+    "lessonNumber": "46",
+    "title": "Hobbies",
+    "audioPath": "assets/nce4/hobbies.mp3",
+    "lrcPath": "assets/nce4/hobbies.lrc"
+  },
+  {
+    "lessonNumber": "44",
+    "title": "Patterns of Culture",
+    "audioPath": "assets/nce4/patternsofculture.mp3",
+    "lrcPath": "assets/nce4/patternsofculture.lrc"
+  },
+  {
+    "lessonNumber": "12",
+    "title": "Banks and Their Customers",
+    "audioPath": "assets/nce4/banksandtheircustomers.mp3",
+    "lrcPath": "assets/nce4/banksandtheircustomers.lrc"
+  },
+  {
+    "lessonNumber": "32",
+    "title": "Galileo Reborn",
+    "audioPath": "assets/nce4/galileoreborn.mp3",
+    "lrcPath": "assets/nce4/galileoreborn.lrc"
+  },
+  {
+    "lessonNumber": "24",
+    "title": "Beauty",
+    "audioPath": "assets/nce4/beauty.mp3",
+    "lrcPath": "assets/nce4/beauty.lrc"
+  },
+  {
+    "lessonNumber": "43",
+    "title": "Are There Strangers in Space",
+    "audioPath": "assets/nce4/aretherestrangersinspace.mp3",
+    "lrcPath": "assets/nce4/aretherestrangersinspace.lrc"
+  },
+  {
+    "lessonNumber": "10",
+    "title": "Silicon Valley",
+    "audioPath": "assets/nce4/siliconvalley.mp3",
+    "lrcPath": "assets/nce4/siliconvalley.lrc"
+  },
+  {
+    "lessonNumber": "17",
+    "title": "A Man-made Disease",
+    "audioPath": "assets/nce4/aman-madedisease.mp3",
+    "lrcPath": "assets/nce4/aman-madedisease.lrc"
+  },
+  {
+    "lessonNumber": "06",
+    "title": "The Sporting Spirit",
+    "audioPath": "assets/nce4/thesportingspirit.mp3",
+    "lrcPath": "assets/nce4/thesportingspirit.lrc"
+  },
+  {
+    "lessonNumber": "37",
+    "title": "The Process of Ageing",
+    "audioPath": "assets/nce4/theprocessofageing.mp3",
+    "lrcPath": "assets/nce4/theprocessofageing.lrc"
+  },
+  {
+    "lessonNumber": "11",
+    "title": "How to Grow Old",
+    "audioPath": "assets/nce4/howtogrowold.mp3",
+    "lrcPath": "assets/nce4/howtogrowold.lrc"
+  },
+  {
+    "lessonNumber": "15",
+    "title": "Secrecy in Industry",
+    "audioPath": "assets/nce4/secrecyinindustry.mp3",
+    "lrcPath": "assets/nce4/secrecyinindustry.lrc"
+  },
+  {
+    "lessonNumber": "48",
+    "title": "Planning a Share Portfolio",
+    "audioPath": "assets/nce4/planningashareportfolio.mp3",
+    "lrcPath": "assets/nce4/planningashareportfolio.lrc"
+  },
+  {
+    "lessonNumber": "09",
+    "title": "Royal Espionage",
+    "audioPath": "assets/nce4/royalespionage.mp3",
+    "lrcPath": "assets/nce4/royalespionage.lrc"
+  },
+  {
+    "lessonNumber": "31",
+    "title": "The Sculptor Speaks",
+    "audioPath": "assets/nce4/thesculptorspeaks.mp3",
+    "lrcPath": "assets/nce4/thesculptorspeaks.lrc"
+  },
+  {
+    "lessonNumber": "05",
+    "title": "Youth",
+    "audioPath": "assets/nce4/youth.mp3",
+    "lrcPath": "assets/nce4/youth.lrc"
+  },
+  {
+    "lessonNumber": "34",
+    "title": "Adolescence",
+    "audioPath": "assets/nce4/adolescence.mp3",
+    "lrcPath": "assets/nce4/adolescence.lrc"
+  },
+  {
+    "lessonNumber": "01",
+    "title": "Finding Fossil Man",
+    "audioPath": "assets/nce4/findingfossilman.mp3",
+    "lrcPath": "assets/nce4/findingfossilman.lrc"
+  },
+  {
+    "lessonNumber": "04",
+    "title": "Seeing Hands",
+    "audioPath": "assets/nce4/seeinghands.mp3",
+    "lrcPath": "assets/nce4/seeinghands.lrc"
+  },
+  {
+    "lessonNumber": "07",
+    "title": "Bats",
+    "audioPath": "assets/nce4/bats.mp3",
+    "lrcPath": "assets/nce4/bats.lrc"
+  },
+  {
+    "lessonNumber": "03",
+    "title": "Matterhorn Man",
+    "audioPath": "assets/nce4/matterhornman.mp3",
+    "lrcPath": "assets/nce4/matterhornman.lrc"
+  },
+  {
+    "lessonNumber": "40",
+    "title": "Waves",
+    "audioPath": "assets/nce4/waves.mp3",
+    "lrcPath": "assets/nce4/waves.lrc"
+  },
+  {
+    "lessonNumber": "26",
+    "title": "The Past Life of the Earth",
+    "audioPath": "assets/nce4/thepastlifeoftheearth.mp3",
+    "lrcPath": "assets/nce4/thepastlifeoftheearth.lrc"
+  },
+  {
+    "lessonNumber": "02",
+    "title": "Spare That Spider",
+    "audioPath": "assets/nce4/sparethatspider.mp3",
+    "lrcPath": "assets/nce4/sparethatspider.lrc"
+  },
+  {
+    "lessonNumber": "27",
+    "title": "The vasa",
+    "audioPath": "assets/nce4/thevasa.mp3",
+    "lrcPath": "assets/nce4/thevasa.lrc"
+  },
+  {
+    "lessonNumber": "23",
+    "title": "Bird Flight",
+    "audioPath": "assets/nce4/birdflight.mp3",
+    "lrcPath": "assets/nce4/birdflight.lrc"
+  },
+  {
+    "lessonNumber": "29",
+    "title": "The Hovercraft",
+    "audioPath": "assets/nce4/thehovercraft.mp3",
+    "lrcPath": "assets/nce4/thehovercraft.lrc"
+  },
+  {
+    "lessonNumber": "13",
+    "title": "The Search for Oil",
+    "audioPath": "assets/nce4/thesearchforoil.mp3",
+    "lrcPath": "assets/nce4/thesearchforoil.lrc"
+  },
+  {
+    "lessonNumber": "25",
+    "title": "Non-Auditory Effects of Noise",
+    "audioPath": "assets/nce4/non-auditoryeffectsofnoise.mp3",
+    "lrcPath": "assets/nce4/non-auditoryeffectsofnoise.lrc"
+  },
+  {
+    "lessonNumber": "41",
+    "title": "Training Elephants",
+    "audioPath": "assets/nce4/trainingelephants.mp3",
+    "lrcPath": "assets/nce4/trainingelephants.lrc"
+  },
+  {
+    "lessonNumber": "14",
+    "title": "The Butterfly Effect",
+    "audioPath": "assets/nce4/thebutterflyeffect.mp3",
+    "lrcPath": "assets/nce4/thebutterflyeffect.lrc"
+  },
+  {
+    "lessonNumber": "08",
+    "title": "Trading Standards",
+    "audioPath": "assets/nce4/tradingstandards.mp3",
+    "lrcPath": "assets/nce4/tradingstandards.lrc"
+  },
+  {
+    "lessonNumber": "22",
+    "title": "Knowledge and Progress",
+    "audioPath": "assets/nce4/knowledgeandprogress.mp3",
+    "lrcPath": "assets/nce4/knowledgeandprogress.lrc"
+  },
+  {
+    "lessonNumber": "42",
+    "title": "Recording an Earthquake",
+    "audioPath": "assets/nce4/recordinganearthquake.mp3",
+    "lrcPath": "assets/nce4/recordinganearthquake.lrc"
+  },
+  {
+    "lessonNumber": "45",
+    "title": "Of Men and Galaxies",
+    "audioPath": "assets/nce4/ofmenandgalaxies.mp3",
+    "lrcPath": "assets/nce4/ofmenandgalaxies.lrc"
+  },
+  {
+    "lessonNumber": "18",
+    "title": "Porpoises",
+    "audioPath": "assets/nce4/porpoises.mp3",
+    "lrcPath": "assets/nce4/porpoises.lrc"
+  },
+  {
+    "lessonNumber": "16",
+    "title": "The Modern City",
+    "audioPath": "assets/nce4/themoderncity.mp3",
+    "lrcPath": "assets/nce4/themoderncity.lrc"
+  },
+  {
+    "lessonNumber": "20",
+    "title": "Snake Poison",
+    "audioPath": "assets/nce4/snakepoison.mp3",
+    "lrcPath": "assets/nce4/snakepoison.lrc"
+  },
+  {
+    "lessonNumber": "21",
+    "title": "William S. Hart and the Early Western Film",
+    "audioPath": "assets/nce4/williams.hartandtheearlywesternfilm.mp3",
+    "lrcPath": "assets/nce4/williams.hartandtheearlywesternfilm.lrc"
+  },
+  {
+    "lessonNumber": "36",
+    "title": "The Cost of Government",
+    "audioPath": "assets/nce4/thecostofgovernment.mp3",
+    "lrcPath": "assets/nce4/thecostofgovernment.lrc"
+  },
+  {
+    "lessonNumber": "28",
+    "title": "Patients and Doctors",
+    "audioPath": "assets/nce4/patientsanddoctors.mp3",
+    "lrcPath": "assets/nce4/patientsanddoctors.lrc"
+  },
+  {
+    "lessonNumber": "38",
+    "title": "Water and the Traveller",
+    "audioPath": "assets/nce4/waterandthetraveller.mp3",
+    "lrcPath": "assets/nce4/waterandthetraveller.lrc"
+  },
+  {
+    "lessonNumber": "39",
+    "title": "What Every Writer Wants",
+    "audioPath": "assets/nce4/whateverywriterwants.mp3",
+    "lrcPath": "assets/nce4/whateverywriterwants.lrc"
+  },
+  {
+    "lessonNumber": "30",
+    "title": "Exploring the Sea-Floor",
+    "audioPath": "assets/nce4/exploringthesea-floor.mp3",
+    "lrcPath": "assets/nce4/exploringthesea-floor.lrc"
+  }
+]

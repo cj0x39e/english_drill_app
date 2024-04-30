@@ -1,0 +1,434 @@
+[
+  {
+    "lessonNumber": "029&030",
+    "title": "Come In, Amy.",
+    "audioPath": "assets/nce1/comein,amy..mp3",
+    "lrcPath": "assets/nce1/comein,amy..lrc"
+  },
+  {
+    "lessonNumber": "117&118",
+    "title": "Tommy's Breakfast",
+    "audioPath": "assets/nce1/tommy'sbreakfast.mp3",
+    "lrcPath": "assets/nce1/tommy'sbreakfast.lrc"
+  },
+  {
+    "lessonNumber": "053&054",
+    "title": "An Interesting Climate",
+    "audioPath": "assets/nce1/aninterestingclimate.mp3",
+    "lrcPath": "assets/nce1/aninterestingclimate.lrc"
+  },
+  {
+    "lessonNumber": "003&004",
+    "title": "Sorry, Sir.",
+    "audioPath": "assets/nce1/sorry,sir..mp3",
+    "lrcPath": "assets/nce1/sorry,sir..lrc"
+  },
+  {
+    "lessonNumber": "001&002",
+    "title": "Excuse Me",
+    "audioPath": "assets/nce1/excuseme.mp3",
+    "lrcPath": "assets/nce1/excuseme.lrc"
+  },
+  {
+    "lessonNumber": "109&110",
+    "title": "A Good Idea",
+    "audioPath": "assets/nce1/agoodidea.mp3",
+    "lrcPath": "assets/nce1/agoodidea.lrc"
+  },
+  {
+    "lessonNumber": "047&048",
+    "title": "A Cup of Coffee",
+    "audioPath": "assets/nce1/acupofcoffee.mp3",
+    "lrcPath": "assets/nce1/acupofcoffee.lrc"
+  },
+  {
+    "lessonNumber": "103&104",
+    "title": "The French Test",
+    "audioPath": "assets/nce1/thefrenchtest.mp3",
+    "lrcPath": "assets/nce1/thefrenchtest.lrc"
+  },
+  {
+    "lessonNumber": "075&076",
+    "title": "Uncomfortable Shoes",
+    "audioPath": "assets/nce1/uncomfortableshoes.mp3",
+    "lrcPath": "assets/nce1/uncomfortableshoes.lrc"
+  },
+  {
+    "lessonNumber": "007&008",
+    "title": "Are You a Teacher",
+    "audioPath": "assets/nce1/areyouateacher.mp3",
+    "lrcPath": "assets/nce1/areyouateacher.lrc"
+  },
+  {
+    "lessonNumber": "043&044",
+    "title": "Hurry Up",
+    "audioPath": "assets/nce1/hurryup.mp3",
+    "lrcPath": "assets/nce1/hurryup.lrc"
+  },
+  {
+    "lessonNumber": "141&142",
+    "title": "Sally's First Train Ride",
+    "audioPath": "assets/nce1/sally'sfirsttrainride.mp3",
+    "lrcPath": "assets/nce1/sally'sfirsttrainride.lrc"
+  },
+  {
+    "lessonNumber": "089&090",
+    "title": "For Sale",
+    "audioPath": "assets/nce1/forsale.mp3",
+    "lrcPath": "assets/nce1/forsale.lrc"
+  },
+  {
+    "lessonNumber": "055&056",
+    "title": "The Sawyer Family",
+    "audioPath": "assets/nce1/thesawyerfamily.mp3",
+    "lrcPath": "assets/nce1/thesawyerfamily.lrc"
+  },
+  {
+    "lessonNumber": "085&086",
+    "title": "Paris in the Spring.",
+    "audioPath": "assets/nce1/parisinthespring..mp3",
+    "lrcPath": "assets/nce1/parisinthespring..lrc"
+  },
+  {
+    "lessonNumber": "067&068",
+    "title": "The Weekend",
+    "audioPath": "assets/nce1/theweekend.mp3",
+    "lrcPath": "assets/nce1/theweekend.lrc"
+  },
+  {
+    "lessonNumber": "125&126",
+    "title": "Tea for Two",
+    "audioPath": "assets/nce1/teafortwo.mp3",
+    "lrcPath": "assets/nce1/teafortwo.lrc"
+  },
+  {
+    "lessonNumber": "093&094",
+    "title": "Our New Neighbour",
+    "audioPath": "assets/nce1/ournewneighbour.mp3",
+    "lrcPath": "assets/nce1/ournewneighbour.lrc"
+  },
+  {
+    "lessonNumber": "039&040",
+    "title": "Don't Drop It",
+    "audioPath": "assets/nce1/don'tdropit.mp3",
+    "lrcPath": "assets/nce1/don'tdropit.lrc"
+  },
+  {
+    "lessonNumber": "129&130",
+    "title": "Seventy Miles an Hour",
+    "audioPath": "assets/nce1/seventymilesanhour.mp3",
+    "lrcPath": "assets/nce1/seventymilesanhour.lrc"
+  },
+  {
+    "lessonNumber": "069&070",
+    "title": "The Car Race",
+    "audioPath": "assets/nce1/thecarrace.mp3",
+    "lrcPath": "assets/nce1/thecarrace.lrc"
+  },
+  {
+    "lessonNumber": "105&106",
+    "title": "Full of Mistakes",
+    "audioPath": "assets/nce1/fullofmistakes.mp3",
+    "lrcPath": "assets/nce1/fullofmistakes.lrc"
+  },
+  {
+    "lessonNumber": "005&006",
+    "title": "Nice to Meet You.",
+    "audioPath": "assets/nce1/nicetomeetyou..mp3",
+    "lrcPath": "assets/nce1/nicetomeetyou..lrc"
+  },
+  {
+    "lessonNumber": "071&072",
+    "title": "He's Awful",
+    "audioPath": "assets/nce1/he'sawful.mp3",
+    "lrcPath": "assets/nce1/he'sawful.lrc"
+  },
+  {
+    "lessonNumber": "139&140",
+    "title": "Is That You, John",
+    "audioPath": "assets/nce1/isthatyou,john.mp3",
+    "lrcPath": "assets/nce1/isthatyou,john.lrc"
+  },
+  {
+    "lessonNumber": "019&020",
+    "title": "Tired and Thirsty",
+    "audioPath": "assets/nce1/tiredandthirsty.mp3",
+    "lrcPath": "assets/nce1/tiredandthirsty.lrc"
+  },
+  {
+    "lessonNumber": "127&128",
+    "title": "A Famous Actress",
+    "audioPath": "assets/nce1/afamousactress.mp3",
+    "lrcPath": "assets/nce1/afamousactress.lrc"
+  },
+  {
+    "lessonNumber": "097&098",
+    "title": "A Small Blue Case",
+    "audioPath": "assets/nce1/asmallbluecase.mp3",
+    "lrcPath": "assets/nce1/asmallbluecase.lrc"
+  },
+  {
+    "lessonNumber": "091&092",
+    "title": "Poor Ian",
+    "audioPath": "assets/nce1/poorian.mp3",
+    "lrcPath": "assets/nce1/poorian.lrc"
+  },
+  {
+    "lessonNumber": "101&102",
+    "title": "A Card From Jimmy",
+    "audioPath": "assets/nce1/acardfromjimmy.mp3",
+    "lrcPath": "assets/nce1/acardfromjimmy.lrc"
+  },
+  {
+    "lessonNumber": "095&096",
+    "title": "Tickets, Please.",
+    "audioPath": "assets/nce1/tickets,please..mp3",
+    "lrcPath": "assets/nce1/tickets,please..lrc"
+  },
+  {
+    "lessonNumber": "023&024",
+    "title": "Which Glasses",
+    "audioPath": "assets/nce1/whichglasses.mp3",
+    "lrcPath": "assets/nce1/whichglasses.lrc"
+  },
+  {
+    "lessonNumber": "045&046",
+    "title": "The Boss's Letter",
+    "audioPath": "assets/nce1/theboss'sletter.mp3",
+    "lrcPath": "assets/nce1/theboss'sletter.lrc"
+  },
+  {
+    "lessonNumber": "035&036",
+    "title": "Our Village",
+    "audioPath": "assets/nce1/ourvillage.mp3",
+    "lrcPath": "assets/nce1/ourvillage.lrc"
+  },
+  {
+    "lessonNumber": "121&122",
+    "title": "The Man in a Hat",
+    "audioPath": "assets/nce1/themaninahat.mp3",
+    "lrcPath": "assets/nce1/themaninahat.lrc"
+  },
+  {
+    "lessonNumber": "143&144",
+    "title": "A Walk Through the Woods",
+    "audioPath": "assets/nce1/awalkthroughthewoods.mp3",
+    "lrcPath": "assets/nce1/awalkthroughthewoods.lrc"
+  },
+  {
+    "lessonNumber": "037&038",
+    "title": "Making a Bookcase",
+    "audioPath": "assets/nce1/makingabookcase.mp3",
+    "lrcPath": "assets/nce1/makingabookcase.lrc"
+  },
+  {
+    "lessonNumber": "061&062",
+    "title": "A Bad Cold",
+    "audioPath": "assets/nce1/abadcold.mp3",
+    "lrcPath": "assets/nce1/abadcold.lrc"
+  },
+  {
+    "lessonNumber": "025&026",
+    "title": "Mrs. Smith's Kitchen",
+    "audioPath": "assets/nce1/mrs.smith'skitchen.mp3",
+    "lrcPath": "assets/nce1/mrs.smith'skitchen.lrc"
+  },
+  {
+    "lessonNumber": "027&028",
+    "title": "Mrs. Smith's Living Room",
+    "audioPath": "assets/nce1/mrs.smith'slivingroom.mp3",
+    "lrcPath": "assets/nce1/mrs.smith'slivingroom.lrc"
+  },
+  {
+    "lessonNumber": "135&136",
+    "title": "The Latest Report",
+    "audioPath": "assets/nce1/thelatestreport.mp3",
+    "lrcPath": "assets/nce1/thelatestreport.lrc"
+  },
+  {
+    "lessonNumber": "059&060",
+    "title": "Is That All",
+    "audioPath": "assets/nce1/isthatall.mp3",
+    "lrcPath": "assets/nce1/isthatall.lrc"
+  },
+  {
+    "lessonNumber": "021&022",
+    "title": "Which Book",
+    "audioPath": "assets/nce1/whichbook.mp3",
+    "lrcPath": "assets/nce1/whichbook.lrc"
+  },
+  {
+    "lessonNumber": "107&108",
+    "title": "It's Too Small.",
+    "audioPath": "assets/nce1/it'stoosmall..mp3",
+    "lrcPath": "assets/nce1/it'stoosmall..lrc"
+  },
+  {
+    "lessonNumber": "041&042",
+    "title": "Penny's Bag",
+    "audioPath": "assets/nce1/penny'sbag.mp3",
+    "lrcPath": "assets/nce1/penny'sbag.lrc"
+  },
+  {
+    "lessonNumber": "119&120",
+    "title": "A True Story",
+    "audioPath": "assets/nce1/atruestory.mp3",
+    "lrcPath": "assets/nce1/atruestory.lrc"
+  },
+  {
+    "lessonNumber": "137&138",
+    "title": "A Pleasant Dream",
+    "audioPath": "assets/nce1/apleasantdream.mp3",
+    "lrcPath": "assets/nce1/apleasantdream.lrc"
+  },
+  {
+    "lessonNumber": "133&134",
+    "title": "Sensational News",
+    "audioPath": "assets/nce1/sensationalnews.mp3",
+    "lrcPath": "assets/nce1/sensationalnews.lrc"
+  },
+  {
+    "lessonNumber": "115&116",
+    "title": "Knock, Knock",
+    "audioPath": "assets/nce1/knock,knock.mp3",
+    "lrcPath": "assets/nce1/knock,knock.lrc"
+  },
+  {
+    "lessonNumber": "083&084",
+    "title": "Going on Holiday",
+    "audioPath": "assets/nce1/goingonholiday.mp3",
+    "lrcPath": "assets/nce1/goingonholiday.lrc"
+  },
+  {
+    "lessonNumber": "033&034",
+    "title": "A Fine Day",
+    "audioPath": "assets/nce1/afineday.mp3",
+    "lrcPath": "assets/nce1/afineday.lrc"
+  },
+  {
+    "lessonNumber": "013&014",
+    "title": "A New Dress",
+    "audioPath": "assets/nce1/anewdress.mp3",
+    "lrcPath": "assets/nce1/anewdress.lrc"
+  },
+  {
+    "lessonNumber": "123&124",
+    "title": "A Trip to Australia",
+    "audioPath": "assets/nce1/atriptoaustralia.mp3",
+    "lrcPath": "assets/nce1/atriptoaustralia.lrc"
+  },
+  {
+    "lessonNumber": "063&064",
+    "title": "Thank You, Doctor.",
+    "audioPath": "assets/nce1/thankyou,doctor..mp3",
+    "lrcPath": "assets/nce1/thankyou,doctor..lrc"
+  },
+  {
+    "lessonNumber": "057&058",
+    "title": "An Unusual Day",
+    "audioPath": "assets/nce1/anunusualday.mp3",
+    "lrcPath": "assets/nce1/anunusualday.lrc"
+  },
+  {
+    "lessonNumber": "065&066",
+    "title": "Not a Baby",
+    "audioPath": "assets/nce1/notababy.mp3",
+    "lrcPath": "assets/nce1/notababy.lrc"
+  },
+  {
+    "lessonNumber": "049&050",
+    "title": "At the Butcher's",
+    "audioPath": "assets/nce1/atthebutcher's.mp3",
+    "lrcPath": "assets/nce1/atthebutcher's.lrc"
+  },
+  {
+    "lessonNumber": "051&052",
+    "title": "A Pleasant Climate",
+    "audioPath": "assets/nce1/apleasantclimate.mp3",
+    "lrcPath": "assets/nce1/apleasantclimate.lrc"
+  },
+  {
+    "lessonNumber": "131&132",
+    "title": "Don't be So Sure",
+    "audioPath": "assets/nce1/don'tbesosure.mp3",
+    "lrcPath": "assets/nce1/don'tbesosure.lrc"
+  },
+  {
+    "lessonNumber": "031&032",
+    "title": "Where's Sally",
+    "audioPath": "assets/nce1/where'ssally.mp3",
+    "lrcPath": "assets/nce1/where'ssally.lrc"
+  },
+  {
+    "lessonNumber": "081&082",
+    "title": "Roast Beef and Potatoes",
+    "audioPath": "assets/nce1/roastbeefandpotatoes.mp3",
+    "lrcPath": "assets/nce1/roastbeefandpotatoes.lrc"
+  },
+  {
+    "lessonNumber": "073&074",
+    "title": "The Way to King Street",
+    "audioPath": "assets/nce1/thewaytokingstreet.mp3",
+    "lrcPath": "assets/nce1/thewaytokingstreet.lrc"
+  },
+  {
+    "lessonNumber": "015&016",
+    "title": "Your Passports, Please.",
+    "audioPath": "assets/nce1/yourpassports,please..mp3",
+    "lrcPath": "assets/nce1/yourpassports,please..lrc"
+  },
+  {
+    "lessonNumber": "017&018",
+    "title": "How do you do",
+    "audioPath": "assets/nce1/howdoyoudo.mp3",
+    "lrcPath": "assets/nce1/howdoyoudo.lrc"
+  },
+  {
+    "lessonNumber": "079&080",
+    "title": "Carol's Shopping List",
+    "audioPath": "assets/nce1/carol'sshoppinglist.mp3",
+    "lrcPath": "assets/nce1/carol'sshoppinglist.lrc"
+  },
+  {
+    "lessonNumber": "011&012",
+    "title": "Is This Your Shirt",
+    "audioPath": "assets/nce1/isthisyourshirt.mp3",
+    "lrcPath": "assets/nce1/isthisyourshirt.lrc"
+  },
+  {
+    "lessonNumber": "077&078",
+    "title": "Terrible Toothache",
+    "audioPath": "assets/nce1/terribletoothache.mp3",
+    "lrcPath": "assets/nce1/terribletoothache.lrc"
+  },
+  {
+    "lessonNumber": "111&112",
+    "title": "The Most Expensive Model",
+    "audioPath": "assets/nce1/themostexpensivemodel.mp3",
+    "lrcPath": "assets/nce1/themostexpensivemodel.lrc"
+  },
+  {
+    "lessonNumber": "009&010",
+    "title": "How Are You Today",
+    "audioPath": "assets/nce1/howareyoutoday.mp3",
+    "lrcPath": "assets/nce1/howareyoutoday.lrc"
+  },
+  {
+    "lessonNumber": "113&114",
+    "title": "Small Change",
+    "audioPath": "assets/nce1/smallchange.mp3",
+    "lrcPath": "assets/nce1/smallchange.lrc"
+  },
+  {
+    "lessonNumber": "087&088",
+    "title": "A Car Crash",
+    "audioPath": "assets/nce1/acarcrash.mp3",
+    "lrcPath": "assets/nce1/acarcrash.lrc"
+  },
+  {
+    "lessonNumber": "099&100",
+    "title": "Ow",
+    "audioPath": "assets/nce1/ow.mp3",
+    "lrcPath": "assets/nce1/ow.lrc"
+  }
+]
