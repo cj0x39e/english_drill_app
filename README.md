@@ -18,11 +18,14 @@ Only Support For Android. For IOS you can install it by the source code if you c
 
 ## snapshots
 
-//TODO
+<div>
+	<img src="assets/snapshots/list_page.jpg" width="100" >
+	<img src="assets/snapshots/playing_page.jpg" width="100" >
+</div>
 
 ## About the logo
 
-The app's logo was almost designed by my oldest son (a seven-year-old boy). It looks like a dinosaur or a lizard. It's actually a turtle from Pokemon named Squirtle. Hope you like it.
+The app's logo was almost designed by my oldest son (a seven-year-old boy). It looks like a dinosaur or a lizard. It's actually a turtle from Pokemon. Hope you like it.
 
 ## License
 
