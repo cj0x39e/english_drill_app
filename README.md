@@ -19,8 +19,8 @@ Only Support For Android. For IOS you can install it by the source code if you c
 ## snapshots
 
 <div>
-	<img src="assets/snapshots/list_page.jpg" width="100" >
-	<img src="assets/snapshots/playing_page.jpg" width="100" >
+	<img src="assets/snapshots/list_page.jpg" width="140" >
+	<img src="assets/snapshots/playing_page.jpg" width="140" >
 </div>
 
 ## About the logo
