@@ -10,5 +10,7 @@ for i in {1..4}; do
 	mkdir -p ./dist
 	flutter build apk --dart-define="BOOK_NAME=nce$i" --no-tree-shake-icons --no-pub
 	cp -f "$APK_FILE" "./dist/english_drill_nce${i}_$VERSION.apk" && echo "$APK_FILE"
-	sleep 20
+	sleep 10
 done
+
+dart run build_tools/replace_book.dart --book-name nce2
