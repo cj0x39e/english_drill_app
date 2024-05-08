@@ -14,7 +14,9 @@ Just have one function up to now: playing the audio of a lesson, sure, you can a
 
 Download the APK file from the release page, and open it on your phone. The APP does not need any permission, the audio of the lessons has been packaged into the APP.
 
-Only Support For Android. For IOS you can install it by the source code if you can.
+Each of the books has an individual app, such as the new-concept-englis-2's app is english_drill_nce2_x.x.x.apk, because the size of the app will be too large if packaged all of the audios into a single app.
+
+_Only Support For Android. For IOS you can install it by the source code if you can._
 
 ## snapshots
 
